@@ -1,8 +1,26 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: douglasshelby Git Docs
+description: using just-the-docs
+#remote_theme: cotes2020/jekyll-theme-chirpy
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+baseurl: ""
+url: https://douglasshelby.github.io/docs
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# plugins:
+#   - jekyll-remote-theme
+# gems:
+#   - jekyll-remote-theme
+#   - jekyll-seo-tag
+#   - jekyll-sitemap
+#   - jekyll-feed
+#   - jekyll-gist
+#   - jekyll-paginate
+#   - jekyll-archives
+#   - jekyll-include-cache
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"

@@ -1,6 +1,6 @@
 ---
-layout: default
 title: New machine setup
+nav: 2
 ---
 
 # Software installations
