@@ -43,10 +43,8 @@ Visual Studio will install Git by default.  To confirm type: `git -v`
 
 ## Install Docker in WSL
 
-I found the eaiest way is from VS Code
+From command prompt:
 
-1. click the Open a Remote Window in the bottom left
-2. select New Dev Container
-3. you will be promoted to install Docker in WSL
+`wsl --install ubuntu`
 
 
