@@ -1,3 +1,8 @@
+---
+layout: default
+title: New machine setup
+---
+
 # Software installations
 
 ## Visual Studio Code
