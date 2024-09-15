@@ -1,22 +1,8 @@
-title: douglasshelby Git Docs
+title: Git Docs
 description: using just-the-docs
-#remote_theme: cotes2020/jekyll-theme-chirpy
 theme: just-the-docs
-
-baseurl: ""
 url: https://douglasshelby.github.io/docs
-
-# plugins:
-#   - jekyll-remote-theme
-# gems:
-#   - jekyll-remote-theme
-#   - jekyll-seo-tag
-#   - jekyll-sitemap
-#   - jekyll-feed
-#   - jekyll-gist
-#   - jekyll-paginate
-#   - jekyll-archives
-#   - jekyll-include-cache
+color_scheme: dark
 
 defaults:
   -
