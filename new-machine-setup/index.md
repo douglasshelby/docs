@@ -16,8 +16,8 @@ Visual Studio will install Git by default.  To confirm type: `git -v`
 
 1. Configure user name and user email
 
-    `git config --global user.name "Doug Shelby"`
-    `git config --global user.email "douglas.shelby.dev@gmail.com"`
+    `git config --global user.name "First Last"`
+    `git config --global user.email "your.email@example.com"`
 
 2. Setup SSH Key
 
